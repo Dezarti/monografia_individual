@@ -11,7 +11,7 @@ En el proyecto propuesto, se diseñará un sistema de diagnóstico médico compl
 Se tomó la decisión de analizar los datos estructurados y las imágenes separadamente y por ello se crearon dos archivos '.ipynb'. En ellos encontrará explicaciones del proceso que se hizo de análisis. Se aclara que en el archivo Procesamiento_de_imagenes.ipynb los códigos adentro se ejecutaron locamente para facilitar el manejo, limpieza y procesamiento de los datos.
 
 ## Contenido
-- **G19 - ME04 - Alejandro Martínez Hernández**: Documento correspondiente al cuarto momento evaluativo. Se encuentra dentro de la carpeta 'documentos'.
+- **G18 - ME04 - Alejandro Martínez Hernández**: Documento correspondiente al cuarto momento evaluativo. Se encuentra dentro de la carpeta 'documentos'.
 - **Procesamiento_de_imagenes.ipynb:** Se encuentra los códigos junto a su respectiva explicación sobre el poqué y el cómo de su procesamiento. Para que los códigos corran se recomienda realizarlo localmente en archivos separados, tener las librerías que allí se usan instaladas y crear una estruuctura de carpetas igual a la que se encuentra en 'procesadas' dentro de 'us_images'. 
 - **structured_data:** Contiene los datos estructurados del proyecto
 - **us_images (carpeta):** Posee 2 carpetas
